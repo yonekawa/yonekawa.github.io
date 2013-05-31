@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[mog2tech en]]></title>
-  <link href="http://yonekawa.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: RubyMotion | mog2tech en]]></title>
+  <link href="http://yonekawa.github.io/blog/categories/rubymotion/atom.xml" rel="self"/>
   <link href="http://yonekawa.github.io/"/>
   <updated>2013-05-31T14:57:50+09:00</updated>
   <id>http://yonekawa.github.io/</id>
@@ -71,15 +71,9 @@ Let&rsquo;s pull-request! I will support if you contact on twitter :)</p>
 
 <h2>Extra</h2>
 
-<p>Why does Joybox sample app use Gorilla?</p>
-
-<blockquote class="twitter-tweet"><p>そういえばなんでjoyboxのサンプルってゴリラなの</p>&mdash; ぽち＠マウンテンビュー (@pchw) <a href="https://twitter.com/pchw/statuses/340152913152339968">May 30, 2013</a></blockquote>
-
-
-<script async src="http://yonekawa.github.io//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<p>I don&rsquo;t know :)</p>
+<p>Why does Joybox sample app use Gorilla?
+<a href="https://twitter.com/pchw/status/340152913152339968">https://twitter.com/pchw/status/340152913152339968</a>">https://twitter.com/pchw/status/340152913152339968">https://twitter.com/pchw/status/340152913152339968</a></a>
+I don&rsquo;t know :)</p>
 ]]></content>
   </entry>
   

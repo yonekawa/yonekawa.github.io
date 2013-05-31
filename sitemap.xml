@@ -1,12 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>
+            http://yonekawa.github.io/blog/2013/05/31/lightning-talked-about-joybox-in-rubymotion-kaigi-2013/
+        </loc>
+        <lastmod>2013-05-31T14:57:39+09:00</lastmod>
+    </url>
+    <url>
         <loc>http://yonekawa.github.io/blog/archives/</loc>
-        <lastmod>2013-05-31T13:24:03+09:00</lastmod>
+        <lastmod>2013-05-31T14:57:39+09:00</lastmod>
     </url>
     <url>
         <loc>http://yonekawa.github.io/</loc>
-        <lastmod>2013-05-31T13:24:03+09:00</lastmod>
+        <lastmod>2013-05-31T14:57:39+09:00</lastmod>
     </url>
     <url>
         <loc>http://yonekawa.github.io/robots.txt</loc>
